@@ -1,0 +1,12 @@
+Here in this Scenario User want 
+
+he select slicer duration based on his duration selection we want to see 
+the employees whos are there is that duration
+
+Date in the slicer is from table1
+
+which is joined with 
+employeehistory table start date
+
+
+challenge : getting max date of slicer in the measure and tha measure using for the date difference
