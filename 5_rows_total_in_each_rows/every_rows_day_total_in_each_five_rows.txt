@@ -1,0 +1,12 @@
+I have dates 1 to 30 and revenue. Now i have to show 1-5 days total revenue for first 5 rows and 6-10 days total revenue for another 5 days etc
+
+
+
+resources used : 
+https://community.powerbi.com/t5/DAX-Commands-and-Tips/How-to-remove-unwanted-rows-as-a-result-of-ALLEXCEPT-function/m-p/1393285
+
+
+
+check this one also 
+another scenario
+https://community.powerbi.com/t5/DAX-Commands-and-Tips/cumulative-sum-by-date-and-product/td-p/1973888
